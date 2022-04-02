@@ -1,6 +1,4 @@
-# university
-
-- JPA demo 2022
+# university (JPA demo 2022)
 
 1. OneToOne
 
